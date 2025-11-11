@@ -8,8 +8,7 @@ This professional website showcases **Aghara Mitul's event management services**
 ---
 
 ## 🚀 Live Demo
-**View Live Website** → _[Coming Soon]_  
-<!-- Replace with actual link when deployed -->
+**View Live Website** → https://mitulaghara.github.io/event-management-website/
 
 ---
 
@@ -89,16 +88,12 @@ event-management-website/
 ### **Installation**
 
 1. **Download the Project**
-   git clone https://github.com/your-username/agharamitul-events.git
-   cd agharamitul-events
+   git clone https://github.com/mitulaghara/event-management-website.git
+   cd event-management-website
 
 2. **Open in Browser**
    - Simply open index.html  
    OR use a local server for better performance:
-
-   python -m http.server 8000
-   npx http-server
-   php -S localhost:8000
 
 3. **Customize Content**
    - Edit .html files to update text
@@ -154,10 +149,10 @@ Edit the CSS variables in style.css:
 ## 📞 Contact Information
 
 **Aghara Mitul Event Management**  
-📍 123 Event Street, Mumbai, India  
-📞 +91 98765 43210  
+📍 Wankaner, Gujarat, India  
+📞 +91 88668 77692  
 📧 info@agharamitul.com  
-🌐 www.agharamitul.com
+🌐 agharamitul
 
 ---
 
@@ -216,4 +211,4 @@ For support or customization help:
 ---
 
 Built with ❤️ by **Aghara Mitul Team**  
-_Last updated: December 2023_
+_Last updated: December 2025_
